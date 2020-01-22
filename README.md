@@ -1,4 +1,4 @@
-# Methods in Ruby
+earn read# Methods in Ruby
 
 ## Overview
 
